@@ -60,10 +60,3 @@ Awards
 * The China National Scholarship
 * The Second Award of Advanced Mathematics Competition organized by China University of Petroleum (East China)
 * The First-class Scholarship of China University of Petroleum (East China)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
