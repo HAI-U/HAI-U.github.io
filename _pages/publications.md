@@ -3,7 +3,6 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
-## 2023
 
 * Production forecast and optimization for parent-child well pattern in unconventional reservoirs. 
 [[Paper]](https://doi.org/10.1016/j.petrol.2021.108899)
