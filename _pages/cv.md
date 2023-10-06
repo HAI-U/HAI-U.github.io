@@ -51,7 +51,7 @@ Work experience
   * Duties included: Digital Emission Measuring and Monitoring
   * Supervisor: Ling Bai
 
-Publications
+Awards
 ======
 * The Finalist Award of Mathematical Contest in Modeling organized by the United States
 * The Outstanding Student Award
