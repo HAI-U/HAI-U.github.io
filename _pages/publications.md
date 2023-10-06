@@ -18,6 +18,8 @@ author_profile: true
 <i>Geoenergy Science and Engineering </i>, 2023.
 
 
-* Insights into the Application of Machine Learning in Reservoir Engineering: Current Developments and Future Trends. <br>
+* Insights into the Application of Machine Learning in Reservoir Engineering: Current Developments and Future Trends.
+[[Paper]](https://doi.org/10.3390/en16031392)
+<br>
 <b>Hai Wang</b>, Shengnan Chen. <br>
 <i>Energies</i>, 2023.
